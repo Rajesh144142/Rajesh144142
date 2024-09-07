@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar Halder</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **NextJs , Django**
-
 - 👨‍💻 All of my projects are available at [https://anthektiks.onrender.com/](https://anthektiks.onrender.com/)
 
 - 📝 I regularly write articles on [https://techblog-yqps.onrender.com/](https://techblog-yqps.onrender.com/)
